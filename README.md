@@ -48,8 +48,7 @@ Example Error Response
 
 Certainly! Here's how you can write a clear API design in a README.md file using Markdown syntax:
 
-markdown
-Copy code
+
 # QR Code Scanner API
 
 This API provides functionality for scanning QR codes and fetching product information based on the scanned QR code.
